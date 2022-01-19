@@ -1,0 +1,32 @@
+:root{
+	--corFundo1:#DCDCDC;
+	--corFundo2:#8181f7
+}
+
+body{
+	font:20px arial-serif
+}
+
+.navbar {
+	background-color:white;
+}
+
+.quem-somos{
+	background-color: var(--corFundo2);
+	color: white;
+}
+
+.margin{
+	
+	padding-bottom:50px;
+}
+
+.parceiros{
+	background-color:var(--corFundo1);
+	
+}
+
+.servicos{
+	background-color: var(--corFundo2);
+	
+}
